@@ -3,7 +3,7 @@
 I'm a self-taught developer and I'm always looking to improve my skills and knowledge.
 I'm also interest DevOps technologies and I'm passionate about it. I'm currently learning and working on my own projects.
 
-- :dart: I am software developer at [Digiturk].
+- :dart: I am software developer at [Digiturk](https://www.digiturk.com.tr/).
 - 🔭 I’m currently developing **Go - C# - Typesccript - React**
 - 💬 Ask me about **Frontend techs, Backend techs, DevOPS techs**
 - 📫 iambarisakdas.com || barisakdas00@gmail.com
