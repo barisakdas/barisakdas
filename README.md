@@ -1,10 +1,10 @@
 # Hi Everyone :wave:
 
 I'm a self-taught developer and I'm always looking to improve my skills and knowledge.
-I'm also a huge fan of the Go programming language and I'm passionate about it. I'm currently learning and working on my own projects.
+I'm also interest DevOps technologies and I'm passionate about it. I'm currently learning and working on my own projects.
 
 - :dart: I am software developer at [MonoPayments](https://github.com/monopayments).
-- 🔭 I’m currently developing **Go-C#-Typesccript**
+- 🔭 I’m currently developing **Go - C# - Typesccript - React**
 - 💬 Ask me about **Frontend techs, Backend techs, DevOPS techs**
 - 📫 iambarisakdas.com || barisakdas00@gmail.com
 
