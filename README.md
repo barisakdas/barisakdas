@@ -24,8 +24,6 @@ I'm also interest DevOps technologies and I'm passionate about it. I'm currently
 ![kubernetes](https://img.shields.io/badge/Kubernetes-05122A.svg?style=flat&logo=kubernetes)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-05122A?style=flat&logo=github-actions&logoColor=007ACC)&nbsp;
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-05122A?style=flat&logo=google-cloud&logoColor=007ACC)&nbsp;
-
 ### 📊 GitHub Analytics
 
 <p align="center">
