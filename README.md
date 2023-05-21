@@ -8,8 +8,7 @@ I'm also interest DevOps technologies and I'm passionate about it. I'm currently
 - 💬 Ask me about **Backend techs, Frameworks, Algorithms and DevOps techs**
 - 📫 iambarisakdas.com || barisakdas00@gmail.com
 
-### 💻 Social Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/barisakdas/) 
+### 💻 Social Media: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/barisakdas/) 
 
 # 🛠 Tech Stack
 ### 💻 Languages:
