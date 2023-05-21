@@ -5,7 +5,7 @@ I'm also interest DevOps technologies and I'm passionate about it. I'm currently
 
 - :dart: I am software developer and devops engineer at [OtoKoc Automative](https://www.otokoc.com.tr/).
 - 🔭 I’m currently developing **Go - C# - Typesccript - React**
-- 💬 Ask me about **Frontend techs, Backend techs, DevOPS techs**
+- 💬 Ask me about **Backend techs, Frameworks, Algorithms and DevOps techs**
 - 📫 iambarisakdas.com || barisakdas00@gmail.com
 
 # 🛠 Tech Stack
