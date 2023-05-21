@@ -3,7 +3,7 @@
 I'm a self-taught developer and I'm always looking to improve my skills and knowledge.
 I'm also interest DevOps technologies and I'm passionate about it. I'm currently learning and working on my own projects.
 
-- :dart: I am software developer and devops engineer at [OtoKoc Automative](https://www.otokoc.com.tr/).
+- :dart: I am software developer and devops engineer at [OtoKoc Automative](https://www.otokoc.com.tr/)
 - 🔭 I’m currently developing **Go - C# - Typesccript - React**
 - 💬 Ask me about **Backend techs, Frameworks, Algorithms and DevOps techs**
 - 📫 iambarisakdas.com || barisakdas00@gmail.com
