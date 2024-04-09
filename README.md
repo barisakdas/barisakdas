@@ -13,6 +13,8 @@
   <p align="center">📫 Visit My Resume from <a href="http://iambarisakdas.com/" target="blank">here</a></p>
 </div>
 
+<p> ----------------------------------------------------------------------------------------- </p>
+
 <div align="center">
   <h3 align="center">Connect with me:</h3>
   <p align="center">
@@ -30,7 +32,9 @@
   </p>
 </div>
 
-<div align="center" style="border: 2px solid white; text-align: center; padding: 20px;">
+<p> ----------------------------------------------------------------------------------------- </p>
+
+<div align="center">
   <h3 align="center">Languages and Tools:</h3>
   <p align="center"> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
