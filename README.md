@@ -91,6 +91,8 @@
   </p> 
 </div>
 
+<p align="center"> ----------------------------------------------------------------------------------------- </p>
+
 <div align="center" style="border: 2px solid white; text-align: center; padding: 20px;">
   <p>
     <span>📊 GitHub Analytics</span>
@@ -99,6 +101,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=barisakdas&show_icons=true&locale=en" alt="barisakdas" />
   </p>
 </div>
+
+<p align="center"> ----------------------------------------------------------------------------------------- </p>
 
 <div align="center" style="border: 2px solid white; text-align: center; padding: 20px;">
   <p>
