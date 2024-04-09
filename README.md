@@ -80,12 +80,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> 
 
-</p align="center">📊 GitHub Analytics<p>
+</p>📊 
+<p align="center">GitHub Analytics
+<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=barisakdas&show_icons=true&locale=en" alt="barisakdas" />
 </p>
 <br/>
-  
-</p align="center">💰 You can help me by Donating<p>
+
+<p align="center">💰 You can help me by Donating
+<br/>
 <a href="https://buymeacoffee.com/barisakdas">
 <img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="barisakdas" />
 </a>
