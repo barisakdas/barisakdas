@@ -87,7 +87,7 @@
 </p>
 <br/>
 
-<p align="center">💰 You can help me by Donating
+<p align="center">💰 <span>You can help me by Donating</span>
 <br/>
 <a href="https://buymeacoffee.com/barisakdas">
 <img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="barisakdas" />
