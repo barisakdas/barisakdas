@@ -1,11 +1,11 @@
-<div align="center" style="border: 2px solid white; text-align: center; padding: 20px;">
+<div align="center">
   <h1 align="center">Hi 👋, I'm Barış AKDAŞ</h1>
   <h3 align="center">Senior Software & Architext Developer | DevOps</h3>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=barisakdsas&label=Profile%20views&color=0e75b6&style=flat" alt="barisakdas" /> </p>
 </div>
 
-<div align="center" style="border: 2px solid white; text-align: center; padding: 20px;">
+<div align="center">
   - :dart: I am software architect developer at **[OtoKoc Automative](https://www.otokoc.com.tr/)**
   - 🔭 I’m currently developing **Go - C# - Typesccript - React**
   - 💬 Ask me about **Backend techs, Frameworks, Microservice Architecture and DevOps techs**
@@ -13,7 +13,7 @@
   - 📝 You can read and follow the articles I wrote in line with my interests here [https://medium.com/@barisakdas](https://medium.com/@barisakdas)
 </div>
 
-<div align="center" style="border: 2px solid white; text-align: center; padding: 20px;">
+<div align="center">
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/barisakdas/" target="blank">
@@ -29,6 +29,7 @@
     </a>
   </p>
 </div>
+
 <div align="center" style="border: 2px solid white; text-align: center; padding: 20px;">
   <h3 align="center">Languages and Tools:</h3>
   <p align="center"> 
