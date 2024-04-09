@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <p align="center">🎯 I am software architect developer at <a href="https://www.otokoc.com.tr/" target="blank">OtoKoc Automative</a></p>
+  <p align="center">🎯 I am software architect developer at <a href="https://www.otokoc.com.tr/" target="blank">Otokoc Automative</a></p>
   <p align="center">🔭 I’m currently developing Go - C# - Typesccript - React</p>
   <p align="center">💬 Ask me about Backend techs, Frameworks, Microservice Architecture and DevOps techs</p>
   <p align="center">📝 You can read and follow the articles I wrote in line with my interests <a href="https://medium.com/@barisakdas">here</a></p>
