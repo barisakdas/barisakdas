@@ -82,15 +82,16 @@
 
 </p> 
 <p align="center">
-<h3>📊 GitHub Analytics</h3>
+<span>📊 GitHub Analytics</span>
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=barisakdas&show_icons=true&locale=en" alt="barisakdas" />
 </p>
 <br/>
 
 <p align="center">
-<h3>💰 You can help me by Donating</h3>
+<span>💰 You can help me by Donating</span>
 <br/>
 <a href="https://buymeacoffee.com/barisakdas">
 <img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="barisakdas" />
 </a>
+</p>
