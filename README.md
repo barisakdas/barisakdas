@@ -88,7 +88,7 @@
 </p>
 <br/>
 
-<div style="border: 2px solid white; text-align: center; padding: 20px;">
+<div align="center" style="border: 2px solid white; text-align: center; padding: 20px;">
   <p>
     <span>💰 You can help me by Donating</span>
   </p>
