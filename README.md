@@ -2,15 +2,15 @@
   <h1 align="center">Hi 👋, I'm Barış AKDAŞ</h1>
   <h3 align="center">Senior Software & Architext Developer | DevOps</h3>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=barisakdsas&label=Profile%20views&color=0e75b6&style=flat" alt="barisakdas" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=barisakdsas&label=Profile%20views&color=0e75b6&style=flat" alt="barisakdas" /> </p>
 </div>
 
 <div align="center">
-  - :dart: I am software architect developer at **[OtoKoc Automative](https://www.otokoc.com.tr/)**
-  - 🔭 I’m currently developing **Go - C# - Typesccript - React**
-  - 💬 Ask me about **Backend techs, Frameworks, Microservice Architecture and DevOps techs**
-  - 📫 [iambarisakdas.com](http://iambarisakdas.com/) || <a href="mailto:barisakdas00@gmail.com"> </a> barisakdas00@gmail.com
-  - 📝 You can read and follow the articles I wrote in line with my interests here [https://medium.com/@barisakdas](https://medium.com/@barisakdas)
+  <p align="center">:dart: I am software architect developer at **[OtoKoc Automative](https://www.otokoc.com.tr/)**</p>
+  <p align="center">🔭 I’m currently developing **Go - C# - Typesccript - React**</p>
+  <p align="center">💬 Ask me about **Backend techs, Frameworks, Microservice Architecture and DevOps techs**</p>
+  <p align="center">📫 [iambarisakdas.com](http://iambarisakdas.com/) || <a href="mailto:barisakdas00@gmail.com"> </a> barisakdas00@gmail.com</p>
+  <p align="center">📝 You can read and follow the articles I wrote in line with my interests here [https://medium.com/@barisakdas](https://medium.com/@barisakdas)</p>
 </div>
 
 <div align="center">
