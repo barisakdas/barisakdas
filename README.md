@@ -1,47 +1,97 @@
-# Hi Everyone :wave:
+<h1 align="center">Hi 👋, I'm Barış AKDAŞ</h1>
+<h3 align="center">Senior Software & Architext Developer | DevOps</h3>
 
-I'm a self-taught developer and I'm always looking to improve my skills and knowledge.
-I'm also interest DevOps technologies and I'm passionate about it. I'm currently learning and working on my own projects.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barisakdsas&label=Profile%20views&color=0e75b6&style=flat" alt="barisakdas" /> </p>
 
-- :dart: I am software developer and devops engineer at **[OtoKoc Automative](https://www.otokoc.com.tr/)**
+- :dart: I am software architect developer at **[OtoKoc Automative](https://www.otokoc.com.tr/)**
 - 🔭 I’m currently developing **Go - C# - Typesccript - React**
-- 💬 Ask me about **Backend techs, Frameworks, Algorithms and DevOps techs**
-- 📫 [iambarisakdas.com](http://iambarisakdas.com/) || barisakdas00@gmail.com
+- 💬 Ask me about **Backend techs, Frameworks, Microservice Architecture and DevOps techs**
+- 📫 [iambarisakdas.com](http://iambarisakdas.com/) || <a href="mailto:barisakdas00@gmail.com"> </a> barisakdas00@gmail.com
+- 📝 You can read and follow the articles I wrote in line with my interests here [https://medium.com/@barisakdas](https://medium.com/@barisakdas)
 
-### 💻 Social Media: 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/barisakdas/) 
-
-# 🛠 Tech Stack
-### 💻 Languages:
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) &nbsp;
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) &nbsp;
-![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) &nbsp;
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) &nbsp;
-
-### 💻 Frameworks:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) &nbsp;
-
-### 💻 Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) &nbsp;
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) &nbsp;
-
-### 💻 Platforms:
-![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
-![kubernetes](https://img.shields.io/badge/Kubernetes-05122A.svg?style=flat&logo=kubernetes)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-05122A?style=flat&logo=github-actions&logoColor=007ACC)&nbsp;
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) &nbsp;
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp;
-
-### 📊 GitHub Analytics
-
+<h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://github.com/barisakdas">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=barisakdas&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mberbero"/><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=barisakdas&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mberbero"/>
-</a></p>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/barisakdas) 
+<a href="https://www.linkedin.com/in/barisakdas/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barisakdas" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/_barisakdas/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_barisakdas" height="30" width="40" />
+</a>
+
+<a href="https://medium.com/@barisakdas" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@barisakdas" height="30" width="40" />
+</a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</a> 
+
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+</a> 
+
+<a href="https://golang.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+</a> 
+
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
+</a> 
+
+<a href="https://redis.io" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
+  <img src="https://iconscout.com/icons/elasticsearch" alt="Elasticsearch" width="40" height="40"/>
+</a>
+
+</p align="center">📊 GitHub Analytics<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=barisakdas&show_icons=true&locale=en" alt="barisakdas" />
+</p>
+<br/>
+
+
+  
+</p align="center">💰 You can help me by Donating<p>
+<a href="https://buymeacoffee.com/barisakdas">
+<img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="barisakdas" />
+</a>
