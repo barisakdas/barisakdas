@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <p align="center">🎯 I am software architect developer at <a href="https://www.otokoc.com.tr/" target="blank">Otokoc Automative</a></p>
+  <p align="center">👨🏼‍💻 I am software architect developer at <a href="https://www.otokoc.com.tr/" target="blank">Otokoc Automative</a></p>
   <p align="center">🔭 I’m currently developing Go - C# - Typesccript - React</p>
   <p align="center">💬 Ask me about Backend techs, Frameworks, Microservice Architecture and DevOps techs</p>
   <p align="center">📝 You can read and follow the articles I wrote in line with my interests <a href="https://medium.com/@barisakdas">here</a></p>
@@ -17,7 +17,7 @@
 <p align="center"> ----------------------------------------------------------------------------------------- </p>
 
 <div align="center">
-  <h3 align="center">Connect with me:</h3>
+  <h3 align="center">🤙🏼 Connect with me:</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/barisakdas/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barisakdas" height="30" width="40" />
@@ -36,7 +36,7 @@
 <p align="center"> ----------------------------------------------------------------------------------------- </p>
 
 <div align="center">
-  <h3 align="center">Languages and Tools:</h3>
+  <h3 align="center">🧩 Languages and Tools:</h3>
   <p align="center"> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
