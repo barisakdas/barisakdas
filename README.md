@@ -14,7 +14,6 @@
   <p align="center">📫 Visit My Resume from <a href="http://iambarisakdas.com/" target="blank">here</a></p>
 </div>
 
-</hr>
 <p align="center"> ----------------------------------------------------------------------------------------- </p>
 
 <div align="center">
@@ -93,39 +92,22 @@
   </p> 
 </div>
 
-<p align="center"> ----------------------------------------------------------------------------------------- </p>
+<div align="center">
+  <h3 align="center">⭐️ Open Source Projects</h3>
 
+  <a href="https://github.com/barisakdas/elasticsearch-dotnet"><b>🚀 .Net8 - Elasticsearch</b></a>
 
-## ⭐️ Open Source Projects
+  <a href="https://github.com/barisakdas/inmemory_queue_dotnet"><b>🏵️ .Net8 - InMemory Queue & SignalR</b></a>
 
-<table>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/barisakdas/elasticsearch-dotnet"><b>🚀 .Net8 Elasticsearch</b></a></td>
-      <td>A sample usage and educational project demonstrating all operations in an Elasticsearch database using the .Net 8.0 framework and Elastic.Clients.Elasticsearch libraries.</td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/Event-Driven-Architecture-with-Golang"><b>⚽️ Event Driven Architecture with Golang</b></a></td>
-      <td>The projects aims to integrate incoming GitHub webhooks with Grafana and Slack, essentially adding annotations and sending messages when a new commit is pushed. </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/microservices-with-go"><b>🤖 Microservices with Go</b></a></td>
-      <td>The project utilizes Go, Kubernetes, RabbitMQ, MongoDB, Postgres, and a microservices architecture.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/NBA-Simulator-with-Golang"><b>🏀 NBA Simulator with Golang</b></a></td>
-      <td>The NBA Simulator is a Go-based application designed to simulate various aspects of NBA games.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/gocircuit"><b>⚡️ Go Circuit Breaker</b></a></td>
-      <td>Go Circuit Breaker is a robust and flexible Go package that provides a Circuit Breaker implementation for managing unreliable or slow dependencies in your Go applications.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Furkan-Gulsen/social-distance-detection"><b>🚑 Social Distance Detection</b></a></td>
-      <td>The project that measures the social distance between people in the video through YOLOv3, OpenCV and algorithms, and shows this visually and numerically.</td>
-    </tr>
-  </tbody>
-</table>
+  <a href="https://github.com/barisakdas/signalr-dotnet"><b>🤖 .Net8 - SignalR</b></a>
+
+  <a href="https://github.com/barisakdas/elasticsearch-golang"><b>⚡️ Go - Elasticsearch</b></a>
+
+  <a href="https://github.com/barisakdas/Golang_Framework"><b>🔥 Go - Framework</b></a>
+
+  <a href="https://github.com/barisakdas/ckad"><b>⚡️ Certificated Kubernetes Application Developer Guide</b></a>
+
+</div>
 
 <!-- <div align="center" style="border: 2px solid white; text-align: center; padding: 20px;">
   <p>
