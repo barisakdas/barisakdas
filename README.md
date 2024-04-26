@@ -92,6 +92,8 @@
   </p> 
 </div>
 
+<p align="center"> ----------------------------------------------------------------------------------------- </p>
+
 <div align="center">
   <h3 align="center">⭐️ Open Source Projects</h3>
 
