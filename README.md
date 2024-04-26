@@ -107,7 +107,7 @@
 
   <a href="https://github.com/barisakdas/Golang_Framework"><b>🔥 Go - Framework</b></a>
 
-  <a href="https://github.com/barisakdas/ckad"><b>⚡️ Certificated Kubernetes Application Developer Guide</b></a>
+  <a href="https://github.com/barisakdas/ckad"><b>🥊 Certificated Kubernetes Application Developer Guide</b></a>
 
 </div>
 
