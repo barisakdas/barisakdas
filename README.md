@@ -2,6 +2,7 @@
 
 <div align="center">
   <h1 align="center">Hi 👋, I'm Barış AKDAŞ</h1>
+  <img align="center" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/>
   <h3 align="center">Senior Software & Architect Developer | DevOps</h3>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=barisakdsas&label=Profile%20views&color=0e75b6&style=flat" alt="barisakdas" /> </p>
