@@ -1,4 +1,4 @@
-<div align="center"><img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/></div>
+<div align="center"><img align="center" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/></div>
 
 <div align="center">
   <h1 align="center">Hi 👋, I'm Barış AKDAŞ</h1>
